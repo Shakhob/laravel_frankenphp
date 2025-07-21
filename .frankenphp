@@ -1,0 +1,5 @@
+{
+    "workers": ${OCTANE_WORKERS:-8},
+    "log_level": "info",
+    "access_log": false
+}
